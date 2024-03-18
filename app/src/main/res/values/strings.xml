@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hitungPersegi</string>
+    <string name="judul">Menghitung luas persegi panjang</string>
+    <string name="panjang">Panjang</string>
+    <string name="masukan_panjang">masukan panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="masukan_lebar">masukan lebar</string>
+    <string name="hitung_luas">Hitung Luas</string>
+    <string name="move">lihat di activity lain</string>
+    <string name="hasil">hasil</string>
+    <string name="sendData">kirim Data</string>
+    <string name="object">object</string>
+</resources>
